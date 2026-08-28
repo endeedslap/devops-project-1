@@ -5,7 +5,7 @@ app = Flask(__name__)
 def hello():
     return '''
     <h1 style="font-family:sans-serif;color:#0D1117;padding:40px">
-        🚀 Hello from Isse's DevOps Project!
+        🚀 Hello wlecome to my DevOps Project!
         <br><small style="font-size:16px;color:#555">CI/CD Pipeline — Project 1</small>
     </h1>
     '''
