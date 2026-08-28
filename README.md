@@ -6,9 +6,6 @@
 A fully automated CI/CD pipeline that deploys a Python web application 
 to AWS EC2 every time code is pushed to GitHub — no manual steps required.
 
-## Live Demo
-http://18.218.70.33:5000
-
 ## Tech Stack
 | Tool | Purpose |
 |---|---|
