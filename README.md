@@ -6,7 +6,7 @@
 A fully automated CI/CD pipeline that deploys a Python web application 
 to AWS EC2 every time code is pushed to GitHub — no manual steps required.
 
-## Tech Stack
+## tools used
 | Tool | Purpose |
 |---|---|
 | Python Flask | Web application |
